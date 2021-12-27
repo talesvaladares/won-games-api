@@ -1,1 +1,6 @@
 npx create-strapi-app@3.6.8 won-games-api
+yarn add strapi-plugin-ckeditor5
+yarn add strapi-plugin-ckeditor5@1.14.0
+yarn build --clean
+yarn add jsdom
+yarn add slugify
