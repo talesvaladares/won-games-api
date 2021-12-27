@@ -1,0 +1,1 @@
+npx create-strapi-app@3.6.8 won-games-api
